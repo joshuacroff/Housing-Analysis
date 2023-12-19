@@ -41,6 +41,8 @@ San Francisco Recycled Sites Analysis (Jupyter Notebook): [sf_recycled_sites.ipy
 
 # Results and Findings
 
+In reviewing the City of San Francisco's Housing Inventory, it appears that the city has recycled 1,337 sites in the 6th cycle that were previously used in the 4th and/or 5th cycles. These sites were not reported by the city as recycled sites in the 6th cycle. 
+
 Recycled sites from the 4th and 5th cycles of the San Francisco Housing Element: [sf_recycled_sites.csv](Data/sf_recycled_sites.csv)
 
 # Contact Information
